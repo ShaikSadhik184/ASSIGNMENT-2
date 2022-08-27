@@ -1,0 +1,8 @@
+'''
+my name is sadhik
+i am from ece'''
+a=10
+b=20
+c=30
+d=40
+print(a,b,c,d,sep='\n')

@@ -1,0 +1,13 @@
+a=35
+b=True
+c="mysirg"
+d=5.46
+print(a,b,c,d,sep='\n')
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(id(a))
+print(id(b))
+print(id(c))
+print(id(d))
